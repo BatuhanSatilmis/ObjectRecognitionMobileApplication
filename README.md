@@ -23,8 +23,11 @@ At the same time, we have printed the information of the object for which Image 
 
 To explain in order the Classes that form the basis of the project you see above;
 • AppDelegate.swift : It is responsible for handling application-level events such as application launch.
+
 • SceneDelegate.swift : Responsible for a UISceneSession's scene lifecycle events such as scene creation, destruction, and state restore.
+
 • ViewController.swift: It is the part where the Vision, Core ML, Classification codes used in the project are included.
+
 • Helper.swift: It is the class that contains the codes written to transmit the information of the classified object to the user audibly, thanks to the AVFoundation library.
 • Main.storyboard,LunchScreen.storyboard : It is the class where the interface of the application is created.
 • Assets.xcassets: It is the place where files such as png, jpeg that should be in the application are kept. Usually icon design is done here.
