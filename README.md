@@ -6,13 +6,18 @@ The application and deployment of machine learning models in mobile devices has 
 Used Frameworks,Libraries and Models for Object Recognition Mobile Application
 
 • Vision : Used for Image Classification
+
 • AVKit : It creates media playback user interfaces that include transport controls,
 chapter navigation, picture-in-picture support, and the display of subtitles and closed
 captions.
+
 • UIKit : It covers table views and navigation controllers, including core labels and
 buttons for the iOS app.
+
 • AVFoundation : Used for text to speech of Classificated Object.
+
 • Core ML : It supports Vision for analyzing images
+
 • Resnet50: It’s trained model.
 
 
@@ -29,7 +34,13 @@ To explain in order the Classes that form the basis of the project you see above
 • ViewController.swift: It is the part where the Vision, Core ML, Classification codes used in the project are included.
 
 • Helper.swift: It is the class that contains the codes written to transmit the information of the classified object to the user audibly, thanks to the AVFoundation library.
+
 • Main.storyboard,LunchScreen.storyboard : It is the class where the interface of the application is created.
+
 • Assets.xcassets: It is the place where files such as png, jpeg that should be in the application are kept. Usually icon design is done here.
+
 • Resnet50.mlmodel : Model weights are stored using full accuracy (32 bit) floating point values in this trained model.
+
 • infoplist : The .plist extension is a format produced by Apple that allows you to use it by reading or adding data from the system by saving data in Xml format as a structure on Xcode.
+
+
