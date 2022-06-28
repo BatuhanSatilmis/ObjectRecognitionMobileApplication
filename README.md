@@ -1,4 +1,9 @@
 # ObjectRecognitionMobileApplication
+
+
+https://user-images.githubusercontent.com/46208188/176319909-a96a5141-aaf6-43af-a16b-12bede9d59a8.mp4
+
+
 The application and deployment of machine learning models in mobile devices has increased in past years as the processing capacity of mobile devices has increased. This brought a whole new level of user experience by giving mobile app developers the ability to integrate the power of machine learning into their apps. This represents a big step forward in mobile development. As well as normal people, the interest of disabled people in smartphones is increasing. Thanks to the developing machine learning applications, the lives of people with disabilities will become easier. We are now able to offer the option to experience this on iOS devices. In this thesis, expecting to develop an IOS application that can identify the objects in the environment and notify the user with a voice command. It is aimed to provide the best and fastest service to users by using IOS-specific machine learning Frameworks. Project goal is to create a well-thought-out application that will help society and is aligned with the Engineering field we are currently studying.
 
 
