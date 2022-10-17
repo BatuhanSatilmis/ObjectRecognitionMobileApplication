@@ -45,4 +45,4 @@ To explain in order the Classes that form the basis of the project you see above
 
 • infoplist : The .plist extension is a format produced by Apple that allows you to use it by reading or adding data from the system by saving data in Xml format as a structure on Xcode.
 
-https://user-images.githubusercontent.com/46208188/176319909-a96a5141-aaf6-43af-a16b-12bede9d59a8.mp4
+
